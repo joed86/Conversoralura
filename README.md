@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/fecha-Diciembre%202022-green" align="right">
 </p>
 
- # Conversor De Moneda | Challenge ONE G3 | Java- Sprint 01
+ # Conversor De Moneda | Challenge ONE G5 | Java- Sprint 01
  
 ## Descripción
   #### El objetivo en este Challenge propuesto por Alura es el de crear un conversor de moneda o divisas. Para lograr poner en practica los conceptos aprendidos de Java en la ruta de Back-end del Programa ONE.
@@ -41,8 +41,6 @@
 ![JAVA](https://img.shields.io/badge/-Java-orange)
 ![Swing](https://img.shields.io/badge/-Swing-blue)
 
-## Autor
-[<img src="https://avatars.githubusercontent.com/u/104738144?v=4" width="115px"><br>*Irumau*](https://github.com/Irumau)|
- :---: |
+
 
 
