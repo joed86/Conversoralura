@@ -37,9 +37,7 @@
   &nbsp;
 
 
-## Tecnologías implementadas
-![JAVA](https://img.shields.io/badge/-Java-orange)
-![Swing](https://img.shields.io/badge/-Swing-blue)
+
 
 
 
